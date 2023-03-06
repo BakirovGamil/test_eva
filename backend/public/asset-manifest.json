@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.js": "/static/js/main.46687f88.js",
+    "static/media/copy-course-svgrepo-com.svg": "/static/media/copy-course-svgrepo-com.528761e8d40431d1a4fe3ed675870fe4.svg",
+    "static/media/cross-small-svgrepo-com.svg": "/static/media/cross-small-svgrepo-com.4ce67de89441565fb93dd921b7212c20.svg",
+    "index.html": "/index.html",
+    "main.46687f88.js.map": "/static/js/main.46687f88.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.46687f88.js"
+  ]
+}

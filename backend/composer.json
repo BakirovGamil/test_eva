@@ -1,0 +1,6 @@
+{
+  "require": {
+    "slim/slim": "3.*",
+    "rakit/validation": "^1.4"
+  }
+}
