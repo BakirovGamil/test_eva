@@ -1,6 +1,6 @@
 import axios from 'axios';
 
-const baseApiUrl = new URL('http://eva/API/');
+const baseApiUrl = new URL('API/', window.location.href);
 
 export default class TextService {
   static async check(text, isSave = false) {
